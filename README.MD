@@ -2,6 +2,7 @@
 
 
 ```python
+$pip install a-cv2-calculate-difference 
 from a_cv2_calculate_difference import check_before_after
 rect = check_before_after(
     "https://github.com/hansalemaos/screenshots/raw/main/colorfind3.png",
